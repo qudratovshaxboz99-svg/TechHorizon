@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+source: .
+destination: _site
+exclude:
+  - .git
+  - .gitignore
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
